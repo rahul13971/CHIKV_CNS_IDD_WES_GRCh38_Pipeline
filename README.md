@@ -119,8 +119,6 @@ The workflow currently tracks:
 - filtered VCF files
 - PASS-only VCF files
 
-In the future, this workflow can be extended to include VEP annotation and multiple samples.
-
 ## Limitations
 
 This project has a few important limitations:
