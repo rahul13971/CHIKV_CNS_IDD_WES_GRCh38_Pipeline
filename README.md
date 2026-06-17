@@ -2,7 +2,7 @@
 
 ## Project overview
 
-I built this project to practice a complete whole-exome sequencing (WES) variant calling workflow using public sequencing data related to neuroimmunology. The sample used in this version of the project is SRR13106578, which comes from a study focused on central nervous system inflammatory demyelinating disease following Chikungunya virus infection.
+I built a complete whole-exome sequencing (WES) variant calling workflow using public sequencing data related to neuroimmunology. The sample used in this version of the project is SRR13106578, which comes from a study focused on central nervous system inflammatory demyelinating disease following Chikungunya virus infection.
 
 The main goal was not to make clinical claims, but to build a clear and reproducible pipeline starting from raw FASTQ files and ending with annotated and prioritized variants. I used this project to understand how raw sequencing reads are processed, aligned to a human reference genome, converted into variant calls, filtered, and then annotated for biological interpretation.
 
